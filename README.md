@@ -1,7 +1,6 @@
 # 北理工数据挖掘作业
 
 ## Data_Preprocessing
----
 ### 文件
 data_preprocessing.ipynb
 
