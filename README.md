@@ -20,3 +20,13 @@ https://www.kaggle.com/gauravdiwan/melbourne-airbnb-eda
 ## RFID数据仓库设计
 ### 文件
 RFID数据仓库.md
+
+## 频繁模式挖掘
+### 文件
+Melbourne_Airbnb_Open_Data.ipynb
+
+### 数据集
+Melbourne Airbnb Open Data
+
+### 介绍
+主要对数据集中的neighbourhood，price，room_type进行了频繁模式挖掘与关联规则挖掘
